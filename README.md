@@ -1,2 +1,2 @@
 # stats220
-hello!
+[hello!](https://webturtl.github.io/stats220/)
