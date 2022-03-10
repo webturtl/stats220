@@ -1,4 +1,4 @@
-# stats220
+# STATS220
 ## Welcome!
 **This page was made for:**
 1. My STATS 220 projects
