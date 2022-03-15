@@ -59,7 +59,7 @@ meme1 <- c(first_row, second_row) %>%
   image_scale(700)
   
 ## creating a border for the entire image
-mymeme <- image_border(meme1, "#3d3d3d", "10x10")
+mymeme <- image_border(meme1, "#3d3d3d", "5x5")
 
 image_write(mymeme,"images/mymeme.png")
 ```
