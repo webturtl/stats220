@@ -5,8 +5,8 @@ Welcome to my page. I hope you enjoy my meme :).
 ![](mymeme.png)
 
 I made this meme because:
-* I am not a fan of doing uni online
-* I found these images and thought that they were a good fit
+* I think it's way more fun to be in class for uni
+* I found these images and thought they were a good fit for how I feel about this
 
 ### CODE
 ```
