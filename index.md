@@ -50,5 +50,4 @@ meme1 <- c(first_row, second_row) %>%
   
 image_write(meme1,"meme1.png")
 ```
-
-[back to top](https://webturtl.github.io/stats220/)
+<p align="right">(<a href="#top">back to top</a>)</p>
