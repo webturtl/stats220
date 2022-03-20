@@ -2,11 +2,12 @@
 Welcome to my page. I hope you enjoy my meme :).
 
 ## My meme
-![](mymeme.png)
-
 I made this meme because:
-* I think it's way more fun to be in class for uni
-* I found these images and thought they were a good fit for how I feel about this
+* I think it's way more fun to be in class for uni.
+* I found these images and thought they were a good fit for how I feel about this.
+* The format is based off a popular meme format but I have adapted it and changed the images to something that, for me, better embodies the online university situation.
+
+![](mymeme.png)
 
 ### CODE
 ```
