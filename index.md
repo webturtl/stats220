@@ -1,5 +1,5 @@
 # Hello!
-Welcome to my page. I hope you enjoy my meme :smile:.
+Welcome to my page. I hope you enjoy my meme 😄.
 
 ## My meme
 I made this meme because:
