@@ -1,6 +1,8 @@
 # Hello!
 Welcome to my page. I hope you enjoy my meme 😄.
 
+![](https://i.giphy.com/media/7BwPfsPE5xFfWE2U47/giphy.webp)
+
 ## My meme
 I made this meme because:
 * I think it's way more fun to be in class for uni.
